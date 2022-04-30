@@ -1,0 +1,94 @@
+#navigation {
+    background: black;
+}
+#move   {
+    margin: 10px 30px 10px 20px;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: white;
+}
+#move:hover {
+    color: blue;
+}
+#logo   {
+    width: 200px;
+    height: 50px;
+    margin: 0;
+}
+.carousel-caption   {
+    font-size:2rem;
+    top: 10px;
+    right: 5px;
+    ;
+}
+.card-img   {
+    width: 100%;
+    height: 600px;
+}
+.fs-1   {
+    padding-left: 10px;
+    font-weight: 1000;
+    text-align: left;
+    color: GREY;
+}
+.index  {
+    position: absolute;
+    top: 62px;
+    left: 0;
+}
+.regular-15 {
+    padding-left: 10px;
+    color: GREY;
+    text-align: left;
+    width: 500px;
+}
+.empty-box  {
+   
+    width: 130px;
+    height: 30px;
+    background: yellow;
+    }
+.Section-1  {
+    text-align: center;
+    height: 500px;
+    margin: 100px 20px 10px 0;
+}
+.Section-2  {
+    text-align: center;
+    height: 500px;
+    margin:100px 0 10px 20px;
+}
+#join-us    {
+    position: absolute;
+    bottom:-45px;
+    left: -100px;
+    font-size: large;
+    font-weight: 700;
+    border-radius: 10px;
+    padding: 10px;
+    background: black;
+}
+#learn-about-us    {
+    position: absolute;
+    bottom:-1150px;
+    left: 200px;
+    font-size: large;
+    font-weight: 700;
+    border-radius: 10px;
+    padding: 10px;
+    background: black;
+}
+#logo-size  {
+    height: 50px;
+    width: 200px;
+}
+#logo-size-1  {
+    height: 50px;
+    width: 150px;
+}
+#footer-content   {
+    padding: 50px;
+}
+#copyright  {
+    margin: 300px 50px 50px 150px;
+}
